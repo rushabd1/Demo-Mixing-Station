@@ -1,5 +1,3 @@
-Project Description:
-
 This project involves automating a Mixing Station using PLC ladder logic programming and an HMI-based control, aiming to automate the mixing process in industrial applications such as food processing, chemical blending, or liquid manufacturing.
 
 The control logic was developed using GX Works3 software, which facilitated a ladder logic program to manage multiple operations, including:
@@ -20,5 +18,3 @@ Key features included:
 
 
 This integration of PLC and HMI improved process accuracy, reduced manual intervention, and enhanced system safety and user-friendliness.
-
-Demonstration video Link : https://github.com/rushabd1/Demo-MXST.git
